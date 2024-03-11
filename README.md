@@ -5,6 +5,10 @@
 - 🦋 In my free time I read, crochet, work out, look after my tropical fish
 ---
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariGsp&theme=tokyonight)
+
+---
+
 ### ⚒ Languages and tools I have used so far:
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
