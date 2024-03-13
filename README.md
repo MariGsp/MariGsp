@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there 👋🏼
 
 - 👩🏻‍💻 I'm a new Software Engineer focused on back-end development
-- 🌱 I’m currently exploring Android app development, Data Science, Raspberry Pi
-- 🦋 In my free time I read, crochet, work out, look after my tropical fish
+- 🌱 I’m currently exploring Android app development, Data Science, and Raspberry Pi
+- 🦋 In my free time I read, crochet, work out, and look after my tropical fish
 ---
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariGsp&theme=tokyonight)
@@ -24,8 +24,7 @@
 </div>
 
 ---
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green&style=plastic)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariGsp&layout=compact&theme=tokyonight&hide_border=True)
 
 
 <!--
