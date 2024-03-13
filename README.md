@@ -1,7 +1,7 @@
 ### Hi there 👋🏼
 
 - 👩🏻‍💻 I'm a new Software Engineer focused on back-end development
-- 🌱 I’m currently exploring Android app development, Data Science, and Raspberry Pi
+- 🌱 I’m currently exploring Android app development, Data Science/AI, and Raspberry Pi
 - 🦋 In my free time I read, crochet, work out, and look after my tropical fish
 ---
 
