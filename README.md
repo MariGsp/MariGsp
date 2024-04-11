@@ -16,6 +16,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
@@ -28,7 +30,7 @@
 </div>
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariGsp&layout=compact&theme=tokyonight&hide_border=True)
+
 
 
 <!--
