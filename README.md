@@ -2,7 +2,7 @@
 
 - 👩🏻‍💻 I'm a graduate back-end Software Engineer
 - 🌱 Currently exploring: DS/AI and Raspberry Pi
-- 💬 Ask me about: nutrition/healthy eating and colour analysis
+- 💬 Ask me about: healthy eating and colour analysis
 - 🦋 In my free time I read, work out, crochet, and look after my tropical fish tank (fish, shrimp, snails)
 ---
 
