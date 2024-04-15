@@ -1,19 +1,16 @@
 ### Hi there 👋🏼
 
-- 👩🏻‍💻 I'm a new Software Engineer focused on back-end development
-- 🌱 I’m currently exploring Android app development, Data Science/AI, and Raspberry Pi
-- 🦋 In my free time I read, crochet, work out, and look after my tropical fish
----
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariGsp&theme=tokyonight)
-
+- 👩🏻‍💻 I'm a graduate back-end Software Engineer
+- 🌱 Currently exploring: DS/AI and Raspberry Pi
+- 💬 Ask me about: nutrition/healthy eating and colour analysis
+- 🦋 In my free time I read, work out, crochet, and look after my tropical fish tank (fish, shrimp, snails)
 ---
 
 ### ⚒ Languages and tools I have used so far:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
 
 ---
