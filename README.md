@@ -1,6 +1,6 @@
 ### Hi there 👋🏼
 
-- 👩🏻‍💻 I'm a newly graduate Software Engineer
+- 👩🏻‍💻 I'm a newly graduate Software Engineer with a backround in healthcare
 - 🌱 Currently exploring: DS/AI and Raspberry Pi
 - 💬 Ask me about: healthy eating and colour analysis
 - 🦋 In my free time I read, work out, crochet, and look after my tropical fish tank (fish, shrimp, snails)
