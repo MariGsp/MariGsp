@@ -1,9 +1,10 @@
 ### Hi there 👋🏼
 
 - 👩🏻‍💻 I'm a graduate Software Engineer with a background in healthcare
-- 🌱 Currently exploring: DS/AI and Raspberry Pi
+- 🔍 Current focus: back-end development
+- 🌱 Also exploring: Climate Change AI Summer School 2024
 - 💬 Ask me about: healthy eating and personal colour analysis
-- 🦋 In my free time I read, work out, crochet, and look after my tropical fish tank (fish, shrimp, snails)
+- 🦋 Free time activities: reading, gym, crochet, crosswords, tropical aquarium
 ---
 
 ### ⚒ Languages and tools I have used so far:
