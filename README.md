@@ -2,7 +2,7 @@
 
 - 👩🏻‍💻 I'm a graduate Software Engineer with a background in healthcare
 - 🔍 Current focus: back-end development
-- 🌱 Also exploring: Climate Change AI Summer School 2024
+- 🌱 Also exploring: Climate Change AI Summer School 2024 (virtual)
 - 💬 Ask me about: healthy eating and personal colour analysis
 - 🦋 Free time activities: reading, gym, crochet, crosswords, tropical aquarium
 ---
