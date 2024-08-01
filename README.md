@@ -1,7 +1,7 @@
 ### Hi there 👋🏼
 
 - 👩🏻‍💻 I'm a graduate Software Engineer with a background in healthcare
-- 🔍 Current focus: mobile and back-end development
+- 🔍 Current focus: mobile development
 - 🌱 Also exploring: Climate Change AI Summer School 2024 (virtual)
 - 💬 Ask me about: healthy eating and personal colour analysis
 - 🦋 Free time activities: reading, gym, crochet, crosswords, tropical aquarium
