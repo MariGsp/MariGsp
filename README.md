@@ -4,7 +4,7 @@
 - 🔍 Current focus: mobile/front-end development
 - 🌱 Currently learning: JS, React, React Native
 - 💬 Ask me about: healthy eating and personal colour analysis
-- 🦋 Free time activities: reading, gym, crochet, crosswords, tropical aquarium
+- 🦋 Free time activities: reading, gym, crochet, crosswords, tropical aquarium (platy fish, shrimp, snail)
 ---
 
 ### ⚒ Languages and tools I have used so far:
