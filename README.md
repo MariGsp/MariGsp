@@ -2,7 +2,7 @@
 
 - 👩🏻‍💻 I'm a graduate Software Engineer with a background in healthcare
 - 🔍 Current focus: mobile/front-end development
-- 🌱 Currently learning JS, React, React Native
+- 🌱 Currently learning: JS, React, React Native
 - 💬 Ask me about: healthy eating and personal colour analysis
 - 🦋 Free time activities: reading, gym, crochet, crosswords, tropical aquarium
 ---
