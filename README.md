@@ -2,7 +2,8 @@
 
 - 👩🏻‍💻 I'm a graduate Software Engineer with a background in healthcare
 - 🔍 Current focus: mobile/front-end development
-- 🌱 Currently learning: JS, React, React Native
+- 🌱 Learning: JS, React, React Native
+- 🔭 Exploring: Climate Change AI Summer School 2024
 - 💬 Ask me about: healthy eating and personal colour analysis
 - 🦋 Free time activities: reading, gym, crochet, crosswords, tropical aquarium (platy fish, shrimp, snail)
 ---
