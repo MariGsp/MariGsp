@@ -1,8 +1,8 @@
 ### Hi there 👋🏼
 
 - 👩🏻‍💻 I'm a graduate Software Engineer with a background in healthcare
-- 🔍 Current focus: mobile/front-end development
-- 🌱 Learning: JS, React, React Native
+- 🔍 Current focus: front-end development
+- 🌱 Learning: JS, React
 - 🔭 Exploring: Climate Change AI Summer School 2024
 - 💬 Ask me about: healthy eating and personal colour analysis
 - 🦋 Free time activities: reading, gym, crochet, crosswords, tropical aquarium (platy fish, shrimp, snail)
@@ -19,7 +19,9 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
