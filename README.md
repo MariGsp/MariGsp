@@ -1,8 +1,7 @@
 ### Hi there 👋🏼
 
 - 👩🏻‍💻 I'm a graduate Software Engineer with a background in healthcare
-- 🔍 Current focus: front-end development
-- 🌱 Learning: JS, React
+- 🌱 Learning: React.js, backend with Python
 - 🔭 Exploring: Climate Change AI Summer School 2024
 - 💬 Ask me about: healthy eating and personal colour analysis
 - 🦋 Free time activities: reading, gym, crochet, crosswords, tropical aquarium (platy fish, shrimp, snail)
