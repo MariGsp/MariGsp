@@ -1,8 +1,8 @@
 ### Hi there 👋🏼
 
 - 👩🏻‍💻 I'm a graduate Software Engineer with a background in healthcare
-- 🌱 I’m learning both front-end and back-end development
-- 🔭 Exploring: Climate Change AI Summer School 2024
+- 🌱 I’m learning both front-end and back-end
+- 🔭 Exploring: mostly front-end, user experience, design
 - 💬 Ask me about: healthy eating and personal colour analysis
 - 🦋 Free time activities: reading, gym, crochet, crosswords, tropical aquarium (platy fish, shrimp, snail)
   
