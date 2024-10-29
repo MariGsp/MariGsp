@@ -1,10 +1,10 @@
 ### Hi there 👋🏼
 
 - 👩🏻‍💻 I'm a graduate Software Engineer with a background in healthcare
-- 🌱 I’m learning both front-end and back-end
-- 🔭 Exploring: mostly front-end, user experience, design
+- 🌱 Learning: both frontend and backend
+- 🔭 Exploring: UX design
 - 💬 Ask me about: healthy eating and personal colour analysis
-- 🦋 Free time activities: reading, gym, crochet, crosswords, tropical aquarium (platy fish, shrimp, snail)
+- 🦋 Hobbies: reading, crochet, crosswords, fitness, tropical aquarium (platy fish, shrimp, snail)
   
 ---
 
