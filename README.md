@@ -4,7 +4,7 @@
 - 🌱 Learning: both frontend and backend
 - 🔭 Exploring: UX design
 - 💬 Ask me about: healthy eating and personal colour analysis
-- 🦋 Hobbies: reading, crochet, crosswords, fitness, tropical aquarium (platy fish, shrimp, snail)
+- 🦋 Hobbies: reading, crochet, crosswords, fitness, tropical aquarium (platy fish, cory fish, shrimp, snail)
   
 ---
 
