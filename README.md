@@ -34,6 +34,8 @@ Android Studio | HTML | CSS | JavaScript | React | Python | Flask
 - Fitness and mental health are my priorities 🧘‍♀️  
 - Aquarium hobbyist (platy fish and shrimp enthusiast!) 🐟
 
+<img width="500" height="500" alt="crocheted cat and dinosaur pets" src="https://github.com/user-attachments/assets/1084f157-b5bc-45df-88a9-ce62fe5d4dea" />
+
 ---
 
 Thanks for stopping by! Feel free to connect or ask me about UX, software, or crochet tips. 🙂
