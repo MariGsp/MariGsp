@@ -15,6 +15,11 @@
 
 ---
 
+## Want to see my work?
+Check out my [UX Portfolio](https://mari-ux.crd.co/) 🎨
+
+---
+
 ## Skills & Tools
 
 ### UX Design & Research  
@@ -28,11 +33,6 @@ Android Studio | HTML | CSS | JavaScript | React | Python | Flask
 - I love crochet, reading, and long walks in nature 🌿  
 - Fitness and mental health are my priorities 🧘‍♀️  
 - Aquarium hobbyist (platy fish and shrimp enthusiast!) 🐟
-
----
-
-## Want to see my work?
-Check out my [UX Portfolio](https://mari-ux.crd.co/) 🎨
 
 ---
 
