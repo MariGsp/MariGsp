@@ -1,53 +1,39 @@
-### Hi there 👋🏼
+# Hi there 👋🏼 I'm Mari
 
-- 👩🏻‍💻 I'm a graduate Software Engineer with a background in healthcare
-- 🌱 Learning: both frontend and backend
-- 🔭 Exploring: UX design
-- 💬 Ask me about: healthy eating and personal colour analysis
-- 🦋 Hobbies: reading, crochet, crosswords, fitness, tropical aquarium (platy fish, cory fish, shrimp, snail)
+- 👩🏻‍💻 Career changer turned UX Designer | Generalist with a curious mind  
+- 🖥️ Former software engineer (backend + user research) 🩺 Former nurse
+- 🌱 Always learning, currently deepening my UX design and user research skills 
+- 🎯 Passionate about solving real-world problems with empathy and creativity  
   
 ---
 
-### ⚒ Languages and tools I have used so far:
-
-#### Backend/ML
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
-</div>
-
-#### Frontend/Mobile
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp; 
-</div>
+## What I do
+- Blend empathy from healthcare with tech skills to design user-friendly, practical solutions  
+- Conduct user research to understand needs and pain points  
+- Create wireframes, prototypes, and user flows that bring ideas to life  
+- Collaborate with developers and stakeholders to build meaningful products  
 
 ---
 
+## Skills & Tools
 
+### UX Design & Research  
+Figma | User & Patient Interviews | Usability Testing | Personas | Journey Mapping | Wireframing
+### Software & Tech 
+Android Studio | HTML | CSS | JavaScript | React | Python | Flask
 
-<!--
-**MariGsp/MariGsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Outside work
+- I love crochet, reading, and long walks in nature 🌿  
+- Fitness and mental health are my priorities 🧘‍♀️  
+- Aquarium hobbyist (platy fish and shrimp enthusiast!) 🐟
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Want to see my work?
+Check out my [UX Portfolio](https://mari-ux.crd.co/) 🎨
+
+---
+
+Thanks for stopping by! Feel free to connect or ask me about UX, software, or crochet tips. 🙂
