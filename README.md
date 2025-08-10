@@ -1,7 +1,7 @@
 # Hi there 👋🏼 I'm Mari
 
 - 👩🏻‍💻 Career changer turned UX Designer | Generalist with a curious mind  
-- 🖥️ Former software engineer (backend + user research) 🩺 Former nurse
+- 🔍 User Researcher | 🖥️ Software Engineer | 🩺 Clinical Nurse Specialist
 - 🌱 Always learning, currently deepening my UX design and user research skills 
 - 🎯 Passionate about solving real-world problems with empathy and creativity  
   
